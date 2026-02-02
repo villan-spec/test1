@@ -1,0 +1,5 @@
+{
+  "name": "TradeSentinel AI",
+  "description": "A high-performance options trading decision support system for the Indian Market (NSE/BSE) using Google Gemini AI.",
+  "requestFramePermissions": []
+}
